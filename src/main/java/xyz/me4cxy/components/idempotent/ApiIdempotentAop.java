@@ -1,4 +1,4 @@
-package xyz.me4cxy.idempotent;
+package xyz.me4cxy.components.idempotent;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;

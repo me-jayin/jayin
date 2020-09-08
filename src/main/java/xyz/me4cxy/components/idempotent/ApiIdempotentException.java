@@ -1,4 +1,4 @@
-package xyz.me4cxy.idempotent;
+package xyz.me4cxy.components.idempotent;
 
 /**
  * 接口幂等性异常
